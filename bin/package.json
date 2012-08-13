@@ -1,0 +1,14 @@
+{ "private"      : true
+, "name"         : "skroll-build-scripts"
+, "version"      : "0.0.1"
+, "dependencies" : 
+  { "optimist"   : "0.3.x"
+  , "plates": "0.4.x"
+  , "cheerio": "0.7.x"
+  , "node-static": "0.5.x"
+  , "mkdirp": "0.3.x"
+  , "request": "2.10.x"
+  , "async": "0.1.x"
+  }
+}
+

@@ -1,0 +1,29 @@
+{ "name"     : "Example Class"
+, "version"  : "0.0.1"
+, "private"  : true
+, "branding" : "myfirm"
+, "units"    :
+  [ "intro", "unit1", "unit2"]
+, "schedule": 
+  [{ "unit" : "intro",            "start": "09:00", "end": "09:15", "day": 1 }
+  ,{ "unit" : "unit1",           "start": "09:15", "end": "10:30", "day": 1 }
+  ,{ "unit" : "unit2",           "start": "10:30", "end": "11:00", "day": 1 }
+  ,{ "break": "coffee",           "start": "11:00", "end": "11:15", "day": 1 }
+  ,{ "unit" : "Unit 3",           "start": "11:15", "end": "11:45", "day": 1 }
+  ,{ "unit" : "Unit 4",           "start": "11:45", "end": "12:30", "day": 1 }
+  ,{ "break": "lunch",            "start": "12:30", "end": "13:30", "day": 1 }
+  ,{ "unit" : "Unit 5",           "start": "13:30", "end": "14:30", "day": 1 }
+  ,{ "unit" : "Unit 6",           "start": "09:00", "end": "10:00", "day": 2 }
+  ,{ "unit" : "Unit 7",           "start": "10:00", "end": "10:30", "day": 2 }
+  ]
+, "trainers": [
+    {
+      "name": "Pedro Teixeira"
+    , "mugshot": "pedroteixeira.jpg"
+    , "bio": "Geek, programmer, freelancer, and entrepreneur. Author of many Node.js modules, the Node Tuts screencast, and the Hands-on Node.js e-book and overall fervent proclaimer of the Node.js creed. Writing a book for Wiley on Node.js. Software Engineer @ Nodejitsu"
+    , "twitter": "pgte"
+    , "github": "pgte"
+    , "blog": "http://metaduck.com"
+    }
+  ]
+}

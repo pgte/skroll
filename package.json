@@ -1,0 +1,11 @@
+{
+  "name": "skroll",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
