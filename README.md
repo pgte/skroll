@@ -5,6 +5,7 @@ Framework for class trainings.
 ## Install
 
 ``` sh
+git clone git://github.com/pgte/skroll.git
 cd bin
 npm install
 cd ..
