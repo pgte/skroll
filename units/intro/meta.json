@@ -1,0 +1,8 @@
+{ "name"     : "intro"
+, "version"  : "0.0.1"
+, "private"  : true
+, "contributors": [
+  {"name": "Pedro Teixeira"}
+]
+, "versions" : { "node": "0.6.x" }
+}
