@@ -670,7 +670,8 @@ code, pre {
 code, pre {
   color: rgba(0, 0, 0, 0.75);
   padding: 1em;
-  line-height: 1.75em
+  line-height: 24px;
+  font-size: 16px;
 }
 
 /* Forms.less
